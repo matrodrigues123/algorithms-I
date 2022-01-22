@@ -1,5 +1,5 @@
 # Algorithms I 
-This project contain the assignments from the coursera online course [Introduction to Algorithms](https://www.coursera.org/learn/algorithms-part1).
+This project contains the assignments from the coursera online course [Introduction to Algorithms](https://www.coursera.org/learn/algorithms-part1).
 
 ## [Percolation](https://github.com/matrodrigues123/algorithms-I/tree/main/percolation)
 Uses the Weighted Union Find algorithm to check if an _n_ \* _n_ grid percolates (connects top and bottom). <br/>
